@@ -45,4 +45,4 @@ with tab2:
         ma_long= ma_long_window
     )
 
-st.dataframe(df)
+    st.dataframe(df)
